@@ -1,4 +1,4 @@
 # ColdPlayWebsite
-A website about ColdPlay. Created using HTML and CSS
+A website about ColdPlay. Created using HTML5 and CSS3
 
 Includes a about page, index page, and home page.
